@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="34" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="34" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+      <class name="first_maven_project.mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:first_maven_project.mavenjava.SeleniumTest@dc24521]" name="BrowserAutomation" duration-ms="0" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:first_maven_project.mavenjava.SeleniumTest@dc24521]" name="MobileAutomation" duration-ms="0" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- first_maven_project.mavenjava.SeleniumTest -->
+      <class name="first_maven_project.mavenjava.AppiumTest">
+        <test-method status="PASS" signature="Android()[pri:0, instance:first_maven_project.mavenjava.AppiumTest@55d56113]" name="Android" duration-ms="3" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method status="PASS" signature="IOS()[pri:0, instance:first_maven_project.mavenjava.AppiumTest@55d56113]" name="IOS" duration-ms="0" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+      </class> <!-- first_maven_project.mavenjava.AppiumTest -->
+      <class name="first_maven_project.mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:first_maven_project.mavenjava.RESTAPITest@148080bb]" name="deleteTwitter" duration-ms="0" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:first_maven_project.mavenjava.RESTAPITest@148080bb]" name="postJIRA" duration-ms="0" started-at="2020-05-31T20:23:42 IST" finished-at="2020-05-31T20:23:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- first_maven_project.mavenjava.RESTAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
