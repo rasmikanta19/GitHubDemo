@@ -11,6 +11,7 @@ public class SeleniumTest {
 	{
 	System.out.println("Browser Automatiom");
 	System.out.println("GitHUbDemo1");
+	System.out.println("GitHUbDemoX1");
 	}
 	
 	@Test
