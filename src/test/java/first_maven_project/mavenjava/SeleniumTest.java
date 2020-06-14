@@ -9,7 +9,8 @@ public class SeleniumTest {
 	@Test
 	public void BrowserAutomation()
 	{
-	System.out.println("Browser Automatiom");	
+	System.out.println("Browser Automatiom");
+	System.out.println("GitHUbDemo1");
 	}
 	
 	@Test
