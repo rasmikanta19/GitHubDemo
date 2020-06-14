@@ -21,6 +21,7 @@ public class AppiumTest {
 	public void Ipad()
 	{
 	System.out.println("Ipad");	
+	System.out.println("GitHUbDemoX");
 	}
 
 }
