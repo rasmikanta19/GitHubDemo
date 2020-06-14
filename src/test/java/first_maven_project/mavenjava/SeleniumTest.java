@@ -15,6 +15,14 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void WebAutomation()
+	{
+	System.out.println("Web Automation Branch");
+	System.out.println("GitHUbDemo1");
+	System.out.println("GitHUbDemoX1");
+	}
+	
+	@Test
 	public void MobileAutomation()
 	{
 	System.out.println("Mobile Automation");	
